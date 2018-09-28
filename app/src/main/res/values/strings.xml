@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SensorPipe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_shadow">ShadowActivity</string>
+    <string name="shadow">shadow</string>
+    <string name="title_activity_full">FullActivity</string>
+    <string name="title_activity_slider">SliderActivity</string>
+    <string name="screen">Screen</string>
+</resources>
